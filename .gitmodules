@@ -1,0 +1,6 @@
+[submodule "letmeask-ui"]
+	path = letmeask-ui
+	url = https://github.com/MateusFS99/letmeask-ui
+[submodule "letmeask-api"]
+	path = letmeask-api
+	url = https://github.com/MateusFS99/letmeask-api
